@@ -1,5 +1,5 @@
 # CTMCopyScript
-Script made to copy an image file and name them 1-46 for Minecraft CTM
+Script made to copy an image file and name them 1-46/0-46 for Minecraft CTM
 
 add the image file you want to the place you want call it "1.png"
 
@@ -14,5 +14,6 @@ cd to filepath in command prompt =
 2): type "cd <filepath>"
 
 type "python CTMCopyScript.py" in command prompt
+or type "python CTMCopyScript2.py" in command prompt if using that file and want to go from 0-46
 
 the copied files are now in the "copies" folder
