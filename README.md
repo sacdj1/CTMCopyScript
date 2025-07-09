@@ -11,7 +11,7 @@ copy filepath
 
 cd to filepath in command prompt = 
 1): "cmd" in windows search then press enter
-2): type "cd <filepath>"
+2): type "cd FILEPATH"
 
 type "python CTMCopyScript.py" in command prompt
 or type "python CTMCopyScript2.py" in command prompt if using that file and want to go from 0-46
