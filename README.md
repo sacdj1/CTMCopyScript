@@ -17,3 +17,5 @@ type "python CTMCopyScript.py" in command prompt
 or type "python CTMCopyScript2.py" in command prompt if using that file and want to go from 0-46
 
 the copied files are now in the "copies" folder
+
+3rd version makes sure to keep the full back of the filename so now u can also copy files like: "1.png.mcmeta"
